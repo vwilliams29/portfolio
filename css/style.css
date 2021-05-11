@@ -21,3 +21,9 @@ h1,button {
   -webkit-background-clip: text;
   background-clip: text;
 }
+.card-title{
+  font-family: 'Cookie', cursive;
+}
+.card{
+  background-color: pink;
+}
