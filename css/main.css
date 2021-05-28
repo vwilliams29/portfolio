@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background: rgb(18, 19, 18);
+    width: 100px;
+    height: 100px;
+    margin: 0 15px;
+}
+h3{
+    text-align: center;
+    padding-top: 2px;
+    color: #59de66;
+    font-size: 25px;
+    font-family: 'Limelight', cursive;
+
+}
+.box {
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 15px;
+    color: red;
+}
+.christmas{
+  font-family: 'Limelight', cursive;
+
+}
+body{
+  background-image: url(https://lh3.googleusercontent.com/proxy/6RCV9AeD7b0f6mCIsNdS8SHHu6yCthkSxPOf5uvs0QYZXQA8kHp_mw4Qc6s3zgLvYx-pK_hgBnMHRrlC2-DkkFUX-YowvA3wZgM);
+}
